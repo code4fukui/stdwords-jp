@@ -1,8 +1,35 @@
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>標準ガイドライン群用語集</title>
+<style>
+body {
+    background-color: #f1f1f1;
+}
+table {
+    border-collapse: collapse;
+    margin-top: .3em;
+    background-color: white;
+}
+td, th {
+    border: 1px solid gray;
+    font-size: 90%;
+    padding: 0 .4em;
+}
+</style>
+<h1>標準ガイドライン群用語集</h1>
+<script type="module" src="https://code4sabae.github.io/js/csv-viewer.js"></script>
+<csv-viewer src="https://code4fukui.github.io/stdwords-jp/hyoujun_guideline_yougosyu.csv" name="標準ガイドライン群用語集"></csv-viewer>
+
+<!--
 <script type="module">
 import { CSV } from "https://js.sabae.cc/CSV.js";
 
 window.onload = async () => {
+    const url = "";
+    const data = CSV.toJSON(await CSV.fetch(url));
+    console.log(data);
+
 };
-</script
+</script>
+    
+-->
 </html>
