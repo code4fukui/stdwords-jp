@@ -1,4 +1,4 @@
-# stdwords-jp
+# cio-jp
 
 政府CIOポータルの[標準ガイドライン群用語集](](https://cio.go.jp/guides)) - standard words in Japan
 
