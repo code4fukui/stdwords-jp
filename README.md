@@ -4,11 +4,11 @@
 
 ## 検索アプリ
 
-- https://code4fukui.github.io/stdwords-jp/  
+- https://code4fukui.github.io/stdwords-jp/
 
 ## CSV
 
-- https://code4fukui.github.io/stdwords-jp/hyoujun_guideline_yougosyu.csv  
+- https://code4fukui.github.io/stdwords-jp/hyoujun_guideline_yougosyu.csv
 
 ## 出展
 
