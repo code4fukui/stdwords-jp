@@ -6,9 +6,11 @@
 
 - https://code4fukui.github.io/stdwords-jp/
 
-## CSV
+## データ
 
-- https://code4fukui.github.io/stdwords-jp/hyoujun_guideline_yougosyu.csv
+- [CSV](https://code4fukui.github.io/stdwords-jp/hyoujun_guideline_yougosyu.csv)
+- [HTML](https://code4fukui.github.io/stdwords-jp/hyoujun_guideline_yougosyu.html)
+- [Markdown](https://code4fukui.github.io/stdwords-jp/hyoujun_guideline_yougosyu.md)
 
 ## 出展
 
